@@ -1,0 +1,12 @@
+# Memberi nilai untuk variabel
+var_a = 25
+var_b = 2
+
+# Membuat output dari operasi dasar python
+print(a+b) # untuk penjumlahan
+print(a-b) # untuk pengurangan
+print(a*b) # untuk perkalian
+print(a/b) # untuk pembagian (biasanya hasilnya desimal)
+print(a//b) # untuk pembagian bulat
+print(a%b) # untuk modulo (mencari sisa dari pembagian)
+print(a**B) # untuk pangkat
