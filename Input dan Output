@@ -1,0 +1,7 @@
+# Membuat teks atau variabel yang ingin di input
+a = input ("masukkan nilai variabel:")
+b = input ("masukkan nilai variabel:") 
+
+# Cara mengeluarkan nilai variabel
+print(a)
+print(b)
