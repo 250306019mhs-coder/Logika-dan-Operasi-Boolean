@@ -1,0 +1,7 @@
+# Cara membuat Operasi Boolean
+p = True
+q = False
+print("p NOT q =", p not q) # untuk pengoperasian logika NOT
+print("p AND q =", p and q) # untuk pengoperasian logika AND
+print("p OR q =", p or q) # untuk pengoperasian logika OR
+print("p XOR q =", p ^ q) # untuk pengoperasian logika XOR
